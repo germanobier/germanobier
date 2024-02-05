@@ -27,7 +27,7 @@
 
 🎯 Comecei a estudar programação em 2020 e gosto muito do que faço. Quando estiver com uma base sólida de front end, quero conhecer mais o back end.
 
-🚀 Tenho 19 anos. Além de estudar programação, também estudo inglês, objetivando expandir minhas oportunidades.
+🚀 Tenho 21 anos. Além de estudar programação, também estudo inglês, objetivando expandir minhas oportunidades.
 
 ## Contato 📬
 
