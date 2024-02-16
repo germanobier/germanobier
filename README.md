@@ -1,6 +1,3 @@
-<img align="right" width="300" height="400" src="https://i.imgur.com/znGHuUO.jpg">
-
-
 # Olá! 👋
 
 👨‍💻 Estudante de desenvolvimento front end
