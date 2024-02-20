@@ -1,6 +1,6 @@
 # Olá! 👋
 
-👨‍💻 Estudante de desenvolvimento front end
+👨‍💻 Estudante de desenvolvimento front-end
 
 📚 Em constante desenvolvimento
 
